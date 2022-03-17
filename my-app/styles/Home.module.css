@@ -5,14 +5,17 @@
   justify-content: center;
   align-items: center;
   font-family: "Courier New", Courier, monospace;
+  background-color: rgb(23, 29, 34);
+  color: azure;
 }
 
 .footer {
   display: flex;
   padding: 2rem 0;
-  border-top: 1px solid #eaeaea;
+  border-top: 1px solid #201e1e;
   justify-content: center;
   align-items: center;
+  background-color: rgb(66, 115, 179);
 }
 
 .input {
